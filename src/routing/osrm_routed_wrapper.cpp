@@ -19,7 +19,7 @@ OsrmRoutedWrapper::OsrmRoutedWrapper(const std::string& profile,
                 "table",
                 "route",
                 "alternatives=false&steps=false&overview=full&continue_"
-                "straight=false") {
+                "straight=true") {
 }
 
 std::string
