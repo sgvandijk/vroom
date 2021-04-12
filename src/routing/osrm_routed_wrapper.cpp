@@ -20,7 +20,7 @@ OsrmRoutedWrapper::OsrmRoutedWrapper(const std::string& profile,
                 "durations",
                 "route",
                 "alternatives=false&steps=false&overview=full&continue_"
-                "straight=false") {
+                "straight=true") {
 }
 
 std::string
